@@ -1,4 +1,8 @@
-## Hi there 👋
+## Oi eu sou a Rosana Baena! 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanabaena&show_icons=true&theme=radical)
+
+
 
 <!--
 **rosanabaena/rosanabaena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
