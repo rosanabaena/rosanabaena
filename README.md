@@ -4,7 +4,7 @@
 ## teste teste3
 ## teste teste4
 ## teste teste5
-## teste teste6
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosanabaena&show_icons=true&theme=radical)
