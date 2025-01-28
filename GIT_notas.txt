@@ -1,0 +1,22 @@
+1. Configure seu nome de usuário e e-mail:
+
+O Git registra quem fez cada alteração no código. Portanto, é importante configurar seu nome de usuário e e-mail. Use os comandos, no terminal:
+git config --global user.name "Seu Nome"
+git config --global user.email "seu@email.com"
+2. Crie um Repositório Git:
+
+Para começar a rastrear seu código, crie um repositório Git em seu projeto. Navegue até a pasta do seu projeto e execute:
+git init
+3. Adicione Arquivos ao Controle de Versão:
+
+Use o comando git add para adicionar arquivos ao "staging area", que é onde você prepara os arquivos para serem “commitados” ou salvos.
+git add nome-do-arquivo
+4. Faça um Commit:
+
+Um commit é um snapshot de suas alterações. Use o comando git commit para criar um commit com uma mensagem descritiva do que foi alterado no projeto.
+git commit -m "Sua mensagem de commit aqui"
+5. Visualize o Histórico de Commits:
+
+Use git log para ver o histórico de commits no repositório.
+git log
+Essas são as etapas fundamentais para começar a usar o Git. Com esses comandos, você pode iniciar o controle de versão de seu código e colaborar em projetos com outras pessoas desenvolvedoras.
