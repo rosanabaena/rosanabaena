@@ -1,3 +1,5 @@
+--https://www.alura.com.br/artigos/o-que-e-git-github
+
 1. Configure seu nome de usuário e e-mail:
 
 O Git registra quem fez cada alteração no código. Portanto, é importante configurar seu nome de usuário e e-mail. Use os comandos, no terminal:
@@ -20,3 +22,12 @@ git commit -m "Sua mensagem de commit aqui"
 Use git log para ver o histórico de commits no repositório.
 git log
 Essas são as etapas fundamentais para começar a usar o Git. Com esses comandos, você pode iniciar o controle de versão de seu código e colaborar em projetos com outras pessoas desenvolvedoras.
+
+
+-------------
+
+git bash
+
+--organizar o controle de desenvolvimento  -- Git flow
+
+
